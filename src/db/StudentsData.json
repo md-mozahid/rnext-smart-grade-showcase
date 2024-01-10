@@ -1,0 +1,189 @@
+{
+  "classOne": [
+    {
+      "id": 1,
+      "name": "Kaikaus",
+      "score": "A+",
+      "percentage": "92%"
+    },
+    {
+      "id": 2,
+      "name": "Qurah",
+      "score": "A",
+      "percentage": "90%"
+    },
+    {
+      "id": 3,
+      "name": "Mah-e-Kanaan",
+      "score": "A+",
+      "percentage": "89%"
+    },
+    {
+      "id": 4,
+      "name": "Khanbahadur",
+      "score": "A+",
+      "percentage": "76%"
+    },
+    {
+      "id": 5,
+      "name": "Mah-e-Kanaan",
+      "score": "A+",
+      "percentage": "79%"
+    },
+    {
+      "id": 6,
+      "name": "Saleb",
+      "score": "A+",
+      "percentage": "62%"
+    },
+    {
+      "id": 7,
+      "name": "Hamdani",
+      "score": "A+",
+      "percentage": "86%"
+    },
+    {
+      "id": 8,
+      "name": "Farstada",
+      "score": "A+",
+      "percentage": "68%"
+    },
+    {
+      "id": 9,
+      "name": "Rammah",
+      "score": "A+",
+      "percentage": "77%"
+    },
+    {
+      "id": 10,
+      "name": "Mubdi",
+      "score": "A+",
+      "percentage": "88%"
+    }
+  ],
+
+  "classTwo": [
+    {
+      "id": 1,
+      "name": "Arham",
+      "score": "A+",
+      "percentage": "95%"
+    },
+    {
+      "id": 2,
+      "name": "Ayan",
+      "score": "A",
+      "percentage": "94%"
+    },
+    {
+      "id": 3,
+      "name": "Ayaan",
+      "score": "A+",
+      "percentage": "85%"
+    },
+    {
+      "id": 4,
+      "name": "Aryan",
+      "score": "A+",
+      "percentage": "81%"
+    },
+    {
+      "id": 5,
+      "name": "Zayan",
+      "score": "A+",
+      "percentage": "65%"
+    },
+    {
+      "id": 6,
+      "name": "Anas",
+      "score": "A+",
+      "percentage": "55%"
+    },
+    {
+      "id": 7,
+      "name": "Rehan",
+      "score": "A+",
+      "percentage": "71%"
+    },
+    {
+      "id": 8,
+      "name": "Huzaifa",
+      "score": "A+",
+      "percentage": "62%"
+    },
+    {
+      "id": 9,
+      "name": "Zain",
+      "score": "A+",
+      "percentage": "66%"
+    },
+    {
+      "id": 10,
+      "name": "Rayan",
+      "score": "A+",
+      "percentage": "75%"
+    }
+  ],
+  "classThree": [
+    {
+      "id": 1,
+      "name": "Azlan",
+      "score": "A+",
+      "percentage": "82%"
+    },
+    {
+      "id": 2,
+      "name": "Shayan",
+      "score": "A",
+      "percentage": "79%"
+    },
+    {
+      "id": 3,
+      "name": "Saad",
+      "score": "A+",
+      "percentage": "72%"
+    },
+    {
+      "id": 4,
+      "name": "Hamza",
+      "score": "A+",
+      "percentage": "59%"
+    },
+    {
+      "id": 5,
+      "name": "Arish",
+      "score": "A+",
+      "percentage": "54%"
+    },
+    {
+      "id": 6,
+      "name": "Zeeshan",
+      "score": "A+",
+      "percentage": "61%"
+    },
+    {
+      "id": 7,
+      "name": "Junaid",
+      "score": "A+",
+      "percentage": "67%"
+    },
+    {
+      "id": 8,
+      "name": "Sufian",
+      "score": "A+",
+      "percentage": "77%"
+    },
+    {
+      "id": 9,
+      "name": "Faizan",
+      "score": "A+",
+      "percentage": "79%"
+    },
+    {
+      "id": 10,
+      "name": "Adnan",
+      "score": "A+",
+      "percentage": "73%"
+    }
+  ]
+}
