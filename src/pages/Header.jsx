@@ -1,4 +1,4 @@
-import Graphics from '../assets//hero-graphics.svg'
+import Graphics from '../assets/School-Illustration.jpg'
 
 export default function Header() {
   return (

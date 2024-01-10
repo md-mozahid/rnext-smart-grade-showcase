@@ -15,37 +15,37 @@
     {
       "id": 3,
       "name": "Mah-e-Kanaan",
-      "score": "A+",
+      "score": "B+",
       "percentage": "89%"
     },
     {
       "id": 4,
       "name": "Khanbahadur",
-      "score": "A+",
+      "score": "A",
       "percentage": "76%"
     },
     {
       "id": 5,
       "name": "Mah-e-Kanaan",
-      "score": "A+",
+      "score": "B",
       "percentage": "79%"
     },
     {
       "id": 6,
       "name": "Saleb",
-      "score": "A+",
+      "score": "B",
       "percentage": "62%"
     },
     {
       "id": 7,
       "name": "Hamdani",
-      "score": "A+",
+      "score": "A",
       "percentage": "86%"
     },
     {
       "id": 8,
       "name": "Farstada",
-      "score": "A+",
+      "score": "A",
       "percentage": "68%"
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": 10,
       "name": "Mubdi",
-      "score": "A+",
+      "score": "B+",
       "percentage": "88%"
     }
   ],
@@ -66,7 +66,7 @@
     {
       "id": 1,
       "name": "Arham",
-      "score": "A+",
+      "score": "B+",
       "percentage": "95%"
     },
     {
@@ -84,37 +84,37 @@
     {
       "id": 4,
       "name": "Aryan",
-      "score": "A+",
+      "score": "C",
       "percentage": "81%"
     },
     {
       "id": 5,
       "name": "Zayan",
-      "score": "A+",
+      "score": "C+",
       "percentage": "65%"
     },
     {
       "id": 6,
       "name": "Anas",
-      "score": "A+",
+      "score": "A",
       "percentage": "55%"
     },
     {
       "id": 7,
       "name": "Rehan",
-      "score": "A+",
+      "score": "B",
       "percentage": "71%"
     },
     {
       "id": 8,
       "name": "Huzaifa",
-      "score": "A+",
+      "score": "B+",
       "percentage": "62%"
     },
     {
       "id": 9,
       "name": "Zain",
-      "score": "A+",
+      "score": "A",
       "percentage": "66%"
     },
     {
@@ -140,25 +140,25 @@
     {
       "id": 3,
       "name": "Saad",
-      "score": "A+",
+      "score": "B+",
       "percentage": "72%"
     },
     {
       "id": 4,
       "name": "Hamza",
-      "score": "A+",
+      "score": "B",
       "percentage": "59%"
     },
     {
       "id": 5,
       "name": "Arish",
-      "score": "A+",
+      "score": "A",
       "percentage": "54%"
     },
     {
       "id": 6,
       "name": "Zeeshan",
-      "score": "A+",
+      "score": "A",
       "percentage": "61%"
     },
     {
@@ -170,19 +170,19 @@
     {
       "id": 8,
       "name": "Sufian",
-      "score": "A+",
+      "score": "B+",
       "percentage": "77%"
     },
     {
       "id": 9,
       "name": "Faizan",
-      "score": "A+",
+      "score": "B",
       "percentage": "79%"
     },
     {
       "id": 10,
       "name": "Adnan",
-      "score": "A+",
+      "score": "B",
       "percentage": "73%"
     }
   ]

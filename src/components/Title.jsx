@@ -1,4 +1,4 @@
-export default function HeadTitle({ children }) {
+export default function Title({ children }) {
   return (
     <>
       <h2 className="text-3xl lg:text-[40px] mb-9 font-bold">
