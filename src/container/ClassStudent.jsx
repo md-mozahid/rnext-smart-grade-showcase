@@ -1,7 +1,7 @@
 import Avatar from '../assets/avatar.png'
 
-export default function ClassThree({student}) {
-    const { id, name, score, percentage } = student
+const ClassStudent = ({ student }) => {
+  const { id, name, score, percentage } = student
   return (
     <>
       <tr className="border-b border-[#7ECEB529]">
@@ -24,3 +24,5 @@ export default function ClassThree({student}) {
     </>
   )
 }
+
+export default ClassStudent

@@ -1,10 +1,7 @@
-// import Avatar from '../assets/avatar.png'
 import StudentData from '../db/StudentsData.json'
-import ClassOne from './ClassOne'
-import ClassThree from './ClassThree'
-import ClassTwo from './ClassTwo'
+import ClassStudent from './ClassStudent'
 
-export default function Students() {
+const Students = () => {
   return (
     <>
       <div className="max-w-[848px] mx-auto overflow-auto">
@@ -32,7 +29,7 @@ export default function Students() {
               </td>
             </tr>
             {StudentData.classOne.map((student) => (
-              <ClassOne key={student.id} student={student} />
+              <ClassStudent key={student.id} student={student} />
             ))}
 
             <tr className="bg-white/5">
@@ -41,7 +38,7 @@ export default function Students() {
               </td>
             </tr>
             {StudentData.classTwo.map((student) => (
-              <ClassTwo key={student.id} student={student} />
+              <ClassStudent key={student.id} student={student} />
             ))}
 
             <tr className="bg-white/5">
@@ -50,7 +47,7 @@ export default function Students() {
               </td>
             </tr>
             {StudentData.classThree.map((student) => (
-              <ClassThree key={student.id} student={student} />
+              <ClassStudent key={student.id} student={student} />
             ))}
           </tbody>
         </table>
@@ -58,3 +55,5 @@ export default function Students() {
     </>
   )
 }
+
+export default Students
