@@ -4,61 +4,71 @@
       "id": 1,
       "name": "Kaikaus",
       "score": "A+",
-      "percentage": "92%"
+      "percentage": "92%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/22.jpg"
     },
     {
       "id": 2,
       "name": "Qurah",
       "score": "A",
-      "percentage": "90%"
+      "percentage": "90%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/29.jpg"
     },
     {
       "id": 3,
       "name": "Mah-e-Kanaan",
       "score": "B+",
-      "percentage": "89%"
+      "percentage": "89%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/90.jpg"
     },
     {
       "id": 4,
       "name": "Khanbahadur",
       "score": "A",
-      "percentage": "76%"
+      "percentage": "76%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/85.jpg"
     },
     {
       "id": 5,
       "name": "Mah-e-Kanaan",
       "score": "B",
-      "percentage": "79%"
+      "percentage": "79%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/76.jpg"
     },
     {
       "id": 6,
       "name": "Saleb",
       "score": "B",
-      "percentage": "62%"
+      "percentage": "62%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/80.jpg"
     },
     {
       "id": 7,
       "name": "Hamdani",
       "score": "A",
-      "percentage": "86%"
+      "percentage": "86%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/1.jpg"
     },
     {
       "id": 8,
       "name": "Farstada",
       "score": "A",
-      "percentage": "68%"
+      "percentage": "68%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/26.jpg"
     },
     {
       "id": 9,
       "name": "Rammah",
       "score": "A+",
-      "percentage": "77%"
+      "percentage": "77%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/40.jpg"
     },
     {
       "id": 10,
       "name": "Mubdi",
       "score": "B+",
-      "percentage": "88%"
+      "percentage": "88%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/88.jpg"
     }
   ],
 
@@ -67,61 +77,71 @@
       "id": 1,
       "name": "Arham",
       "score": "B+",
-      "percentage": "95%"
+      "percentage": "95%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/1.jpg"
     },
     {
       "id": 2,
       "name": "Ayan",
       "score": "A",
-      "percentage": "94%"
+      "percentage": "94%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/26.jpg"
     },
     {
       "id": 3,
       "name": "Ayaan",
       "score": "A+",
-      "percentage": "85%"
+      "percentage": "85%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/4.jpg"
     },
     {
       "id": 4,
       "name": "Aryan",
       "score": "C",
-      "percentage": "81%"
+      "percentage": "81%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/88.jpg"
     },
     {
       "id": 5,
       "name": "Zayan",
       "score": "C+",
-      "percentage": "65%"
+      "percentage": "65%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/40.jpg"
     },
     {
       "id": 6,
       "name": "Anas",
       "score": "A",
-      "percentage": "55%"
+      "percentage": "55%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/29.jpg"
     },
     {
       "id": 7,
       "name": "Rehan",
       "score": "B",
-      "percentage": "71%"
+      "percentage": "71%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/4.jpg"
     },
     {
       "id": 8,
       "name": "Huzaifa",
       "score": "B+",
-      "percentage": "62%"
+      "percentage": "62%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/80.jpg"
     },
     {
       "id": 9,
       "name": "Zain",
       "score": "A",
-      "percentage": "66%"
+      "percentage": "66%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/76.jpg"
     },
     {
       "id": 10,
       "name": "Rayan",
       "score": "A+",
-      "percentage": "75%"
+      "percentage": "75%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/85.jpg"
     }
   ],
   "classThree": [
@@ -129,61 +149,71 @@
       "id": 1,
       "name": "Azlan",
       "score": "A+",
-      "percentage": "82%"
+      "percentage": "82%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/22.jpg"
     },
     {
       "id": 2,
       "name": "Shayan",
       "score": "A",
-      "percentage": "79%"
+      "percentage": "79%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/88.jpg"
     },
     {
       "id": 3,
       "name": "Saad",
       "score": "B+",
-      "percentage": "72%"
+      "percentage": "72%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/1.jpg"
     },
     {
       "id": 4,
       "name": "Hamza",
       "score": "B",
-      "percentage": "59%"
+      "percentage": "59%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/29.jpg"
     },
     {
       "id": 5,
       "name": "Arish",
       "score": "A",
-      "percentage": "54%"
+      "percentage": "54%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/40.jpg"
     },
     {
       "id": 6,
       "name": "Zeeshan",
       "score": "A",
-      "percentage": "61%"
+      "percentage": "61%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/26.jpg"
     },
     {
       "id": 7,
       "name": "Junaid",
       "score": "A+",
-      "percentage": "67%"
+      "percentage": "67%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/4.jpg"
     },
     {
       "id": 8,
       "name": "Sufian",
       "score": "B+",
-      "percentage": "77%"
+      "percentage": "77%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/80.jpg"
     },
     {
       "id": 9,
       "name": "Faizan",
       "score": "B",
-      "percentage": "79%"
+      "percentage": "79%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/76.jpg"
     },
     {
       "id": 10,
       "name": "Adnan",
       "score": "B",
-      "percentage": "73%"
+      "percentage": "73%",
+      "thumbnail": "https://randomuser.me/api/portraits/men/85.jpg"
     }
   ]
 }

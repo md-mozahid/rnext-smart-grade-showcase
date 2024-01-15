@@ -1,7 +1,5 @@
-import Avatar from '../assets/avatar.png'
-
 const ClassStudent = ({ student }) => {
-  const { id, name, score, percentage } = student
+  const { id, name, score, percentage, thumbnail } = student
   return (
     <>
       <tr className="border-b border-[#7ECEB529]">
@@ -10,7 +8,7 @@ const ClassStudent = ({ student }) => {
           <div className="flex space-x-3 items-center">
             <img
               className="w-8 h-8"
-              src={Avatar}
+              src={thumbnail}
               width="32"
               height="32"
               alt="John Smith"
